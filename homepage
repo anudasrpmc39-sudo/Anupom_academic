@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Anupom Das | Health Informatics</title>
+
+<style>
+
+body{
+font-family: Arial, Helvetica, sans-serif;
+margin:0;
+background:#f5f5f5;
+color:#333;
+}
+
+header{
+background:#1c3d5a;
+color:white;
+padding:30px;
+text-align:center;
+}
+
+.container{
+display:flex;
+max-width:1100px;
+margin:auto;
+margin-top:20px;
+}
+
+.sidebar{
+width:250px;
+background:white;
+padding:20px;
+box-shadow:0 0 5px rgba(0,0,0,0.1);
+}
+
+.sidebar img{
+width:150px;
+border-radius:50%;
+display:block;
+margin:auto;
+}
+
+.sidebar h2{
+text-align:center;
+}
+
+.sidebar a{
+display:block;
+padding:10px;
+margin:5px 0;
+text-decoration:none;
+color:#1c3d5a;
+border-left:3px solid transparent;
+}
+
+.sidebar a:hover{
+background:#eef3f8;
+border-left:3px solid #1c3d5a;
+}
+
+.content{
+flex:1;
+background:white;
+padding:30px;
+margin-left:20px;
+box-shadow:0 0 5px rgba(0,0,0,0.1);
+}
+
+section{
+margin-bottom:40px;
+}
+
+h2{
+color:#1c3d5a;
+}
+
+ul{
+line-height:1.6;
+}
+
+footer{
+text-align:center;
+padding:20px;
+margin-top:20px;
+background:#1c3d5a;
+color:white;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Anupom Das</h1>
+<p>Medical Doctor | Health Informatics | Epidemiology | Digital Health</p>
+<p>Stockholm, Sweden</p>
+</header>
+
+<div class="container">
+
+<div class="sidebar">
+
+<img src="profile.jpg" alt="Profile Photo">
+
+<h2>Anupom Das</h2>
+
+<a href="#overview">Overview</a>
+<a href="#research">Research</a>
+<a href="#publications">Publications</a>
+<a href="#projects">Projects</a>
+<a href="#background">Background</a>
+<a href="#skills">Skills</a>
+<a href="#contact">Contact</a>
+
+</div>
+
+<div class="content">
+
+<section id="overview">
+
+<h2>Overview</h2>
+
+<p>
+I am a medical doctor from Bangladesh currently pursuing a Master's in Health Informatics at Karolinska Institutet and Stockholm University. My work focuses on the intersection of clinical medicine, epidemiology, and digital health systems.
+</p>
+
+<p>
+I have over eight years of experience in disease surveillance, clinical research, and health system strengthening. My work includes national health surveillance programs, randomized clinical trials, and digital health data systems.
+</p>
+
+<p>
+My goal is to use health informatics and data science to improve public health decision making and healthcare system performance in low and middle income countries.
+</p>
+
+</section>
+
+<section id="research">
+
+<h2>Research Interests</h2>
+
+<ul>
+<li>Health Informatics</li>
+<li>Disease Surveillance Systems</li>
+<li>Digital Health Implementation</li>
+<li>Health Data Analytics</li>
+<li>Public Health Informatics</li>
+<li>Health Systems Strengthening</li>
+<li>Global Health</li>
+</ul>
+
+</section>
+
+<section id="publications">
+
+<h2>Publications</h2>
+
+<ul>
+
+<li>
+Yunus FM, Jalal C, Das A, et al. (2024).
+Consumption of Iron-Fortified Lentils Is Protective against Declining Iron Status among Adolescent Girls in Bangladesh.
+</li>
+
+<li>
+Parray AA, Yadav UN, Das A, et al. (2022).
+Ensuring global COVID-19 vaccine equity: Universal vaccine access strategy in LMICs.
+</li>
+
+<li>
+Yunus F, Jalal C, Das A, et al. (2021).
+Efficacy of Iron-Fortified Lentils on Body Iron Status among Adolescent Girls.
+</li>
+
+<li>
+Yunus F, Das A, et al. (2019).
+Community trial examining iron-fortified lentils to improve iron status among adolescent girls.
+</li>
+
+</ul>
+
+</section>
+
+<section id="projects">
+
+<h2>Health Informatics Projects</h2>
+
+<ul>
+
+<li>
+District Health Information System (DHIS2) data supervision and analysis in Bangladesh public health system.
+</li>
+
+<li>
+COVID-19 laboratory data coordination and surveillance reporting during pandemic response.
+</li>
+
+<li>
+Training healthcare professionals on disease surveillance and digital reporting systems.
+</li>
+
+<li>
+Implementation of ICT training programs for district health system strengthening.
+</li>
+
+</ul>
+
+</section>
+
+<section id="background">
+
+<h2>Education</h2>
+
+<ul>
+
+<li>
+Master in Health Informatics (2025–2027)  
+Karolinska Institutet & Stockholm University, Sweden
+</li>
+
+<li>
+Field Epidemiology Training Program (FETP) Fellowship  
+Institute of Epidemiology Disease Control and Research, Bangladesh
+</li>
+
+<li>
+Bachelor of Medicine and Surgery (MBBS)  
+Rangpur Medical College, Bangladesh
+</li>
+
+</ul>
+
+</section>
+
+<section id="skills">
+
+<h2>Skills</h2>
+
+<ul>
+
+<li>Health Information Systems</li>
+<li>DHIS2 Data Systems</li>
+<li>SPSS</li>
+<li>EpiInfo</li>
+<li>QGIS</li>
+<li>Python (learning)</li>
+<li>Disease Surveillance</li>
+<li>Outbreak Investigation</li>
+
+</ul>
+
+</section>
+
+<section id="contact">
+
+<h2>Contact</h2>
+
+<p>Email: anupom.das@stud.ki.se</p>
+
+<p>LinkedIn:  
+<a href="https://www.linkedin.com/in/anupom-das/" target="_blank">
+linkedin.com/in/anupom-das
+</a>
+</p>
+
+<p>ResearchGate:  
+<a href="https://www.researchgate.net/profile/Anupom-Das" target="_blank">
+researchgate.net/profile/Anupom-Das
+</a>
+</p>
+
+<p>Location: Stockholm, Sweden</p>
+
+</section>
+
+</div>
+
+</div>
+
+<footer>
+
+<p>© 2026 Anupom Das | Academic Portfolio</p>
+
+</footer>
+
+</body>
+</html>
